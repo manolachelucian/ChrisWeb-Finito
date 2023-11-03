@@ -26,7 +26,10 @@ nadpisy.forEach(nadpis => {
     });
 });
 
-
+function playVideo()
+{
+    document.getElementById("vid").play();
+}
 
 
 
