@@ -26,13 +26,6 @@ nadpisy.forEach(nadpis => {
     });
 });
 
-function playVideo()
-{
-    document.getElementById("vid").play();
-}
-
-
-
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-links");
 
